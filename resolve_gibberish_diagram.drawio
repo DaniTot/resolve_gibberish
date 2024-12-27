@@ -1,0 +1,133 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="doH18nGCfbRNsCmU4off">
+    <mxGraphModel dx="1434" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajvZMXDEwv_cn51jiUJx-1" target="ajvZMXDEwv_cn51jiUJx-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="130" />
+              <mxPoint x="770" y="130" />
+              <mxPoint x="770" y="950" />
+              <mxPoint x="450" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-39" value="gibberish_char" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ajvZMXDEwv_cn51jiUJx-38">
+          <mxGeometry x="0.697" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-1" value="Custom&lt;br&gt;FontPack&lt;br&gt;TFF" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ajvZMXDEwv_cn51jiUJx-2" target="ajvZMXDEwv_cn51jiUJx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-2" value="Char to IMG" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ajvZMXDEwv_cn51jiUJx-4" target="ajvZMXDEwv_cn51jiUJx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-15" value="test_img" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ajvZMXDEwv_cn51jiUJx-14">
+          <mxGeometry x="-0.2381" y="2" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-4" value="Transform &amp;amp; rescale" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="340" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ajvZMXDEwv_cn51jiUJx-7" target="ajvZMXDEwv_cn51jiUJx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-7" value="Standard&lt;br&gt;FontPack&lt;br&gt;TFF" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ajvZMXDEwv_cn51jiUJx-9" target="ajvZMXDEwv_cn51jiUJx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-9" value="Char to IMG" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ajvZMXDEwv_cn51jiUJx-10" target="ajvZMXDEwv_cn51jiUJx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-17" value="ref_img" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ajvZMXDEwv_cn51jiUJx-16">
+          <mxGeometry x="0.0957" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-10" value="Transform &amp;amp; rescale" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajvZMXDEwv_cn51jiUJx-13" target="ajvZMXDEwv_cn51jiUJx-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Similarity&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ test_img: 2D array&lt;br&gt;+ ref_img: 2D array&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ align() -&amp;gt; 3D array:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;concatenates ref and test img and ceners them by aligning center of gravity&lt;br&gt;+ directional_vector_similarity() -&amp;gt; float:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;centers the two images by&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;aligning center of gravity and calculates the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;average RMSE between the normalized pixels counts along x and y axes of two images&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ compare_histogram() -&amp;gt; float:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;calculates correlation between the historgams of the two images (&lt;a href=&quot;https://docs.opencv.org/3.4/d8/dc8/tutorial_histogram_comparison.html&quot;&gt;https://docs.opencv.org/3.4/d8/dc8/tutorial_histogram_comparison.html&lt;/a&gt;)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ sift() -&amp;gt; float:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;(&lt;a href=&quot;https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html&quot;&gt;https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html&lt;/a&gt;)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ surf() -&amp;gt; float:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;(&lt;a href=&quot;https://docs.opencv.org/4.x/df/dd2/tutorial_py_surf_intro.html&quot;&gt;https://docs.opencv.org/4.x/df/dd2/tutorial_py_surf_intro.html&lt;/a&gt;)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-18" value="for all standard char" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=60;height=50;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="430" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ajvZMXDEwv_cn51jiUJx-1" target="ajvZMXDEwv_cn51jiUJx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ajvZMXDEwv_cn51jiUJx-23" target="ajvZMXDEwv_cn51jiUJx-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;CharSimilarites:Dict[str, float]&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;id = utf number of char&lt;br&gt;similarity = similarity score&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="690" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-25" value="similarity == 1" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="350" y="630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-27" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="ajvZMXDEwv_cn51jiUJx-25" parent="1" target="ajvZMXDEwv_cn51jiUJx-23">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="250" y="820" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-29" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajvZMXDEwv_cn51jiUJx-25" target="ajvZMXDEwv_cn51jiUJx-23">
+          <mxGeometry x="-0.8261" relative="1" as="geometry">
+            <mxPoint x="300" y="650" as="targetPoint" />
+            <mxPoint x="480" y="660" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="300" y="660" />
+              <mxPoint x="300" y="710" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-32" value="break" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="710" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajvZMXDEwv_cn51jiUJx-33" target="ajvZMXDEwv_cn51jiUJx-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="950" />
+              <mxPoint x="370" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-40" value="true_char" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ajvZMXDEwv_cn51jiUJx-37">
+          <mxGeometry x="0.025" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-33" value="Select ID w/ highest similarity" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="810" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-35" value="for all custom char" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=60;height=50;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="690" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="ajvZMXDEwv_cn51jiUJx-36" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;CharMap:Dict[str, str]&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;gibberish_char = original char&lt;br&gt;true_char = char with highest similarity&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="970" width="160" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
